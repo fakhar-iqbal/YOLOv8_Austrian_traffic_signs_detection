@@ -38,8 +38,8 @@ YOLOv8, known for its balance between speed and accuracy, is used in this projec
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone YOLOv8_Austrian_traffic_signs_detection
+    cd YOLOv8_Austrian_traffic_signs_detection
     ```
 
 2. **Install Requirements**:
